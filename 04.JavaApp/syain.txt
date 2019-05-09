@@ -1,0 +1,5 @@
+641340,Oda Nobunaga,160,40.0
+213426,Tokugawa Ieyasu,174,75.0
+541433,Takeda Shingen,173,55.0
+749611,Uesugi Kenshin,175,58.0
+156704,Naoe Kanetugu,180,80.0
